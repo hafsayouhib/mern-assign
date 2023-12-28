@@ -1,0 +1,14 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "mern learning",
+  "main": "index.js",
+  "scripts": {
+    "hafsa": "node index.js"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "hafsa",
+  "license": "ISC"
+}
