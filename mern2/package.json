@@ -1,0 +1,14 @@
+{
+  "name": "indigope",
+  "version": "1.0.0",
+  "description": "it is used as multiple threads",
+  "main": "index.js",
+  "scripts": {
+    "hafsa": "node index.js"
+  },
+  "keywords": [
+    "hafsagith"
+  ],
+  "author": "hafsa",
+  "license": "ISC"
+}
